@@ -4,3 +4,6 @@
 [submodule "livox_ros_driver2"]
 	path = livox_ros_driver2
 	url = https://github.com/TransMisiones-Centauro/livox_ros_driver2.git
+[submodule "unilidar_sdk"]
+	path = unilidar_sdk
+	url = https://github.com/TransMisiones-Centauro/unilidar_sdk.git
