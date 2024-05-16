@@ -7,3 +7,6 @@
 [submodule "unilidar_sdk"]
 	path = unilidar_sdk
 	url = https://github.com/TransMisiones-Centauro/unilidar_sdk.git
+[submodule "zed-ros2-examples"]
+	path = zed-ros2-examples
+	url = https://github.com/TransMisiones-Centauro/zed-ros2-examples.git
