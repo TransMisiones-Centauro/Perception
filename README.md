@@ -33,3 +33,7 @@ Large-scale Grasp Dataset from Foundation Models.
 ## Livox LiDAR
 * [Livox MID-360](https://www.livoxtech.com/mid-360)
 * [Livox ROS Driver 2 (ROS, ROS2)](https://github.com/Livox-SDK/livox_ros_driver2/)
+
+## Slamtec RPLIDAR A2
+* [Homepage](https://www.slamtec.ai/product/slamtec-rplidar-a2/)
+* [ROS2 Package](https://github.com/Slamtec/sllidar_ros2)
