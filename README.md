@@ -20,6 +20,11 @@ Large-scale Grasp Dataset from Foundation Models.
 ### ROS 1
 * [Stereolabs ZED Camera - RTAB-map example - ROS Noetic](https://github.com/stereolabs/zed-ros-examples/blob/master/examples/zed_rtabmap_example/README.md)
 
+## OAK-D Lite stereo camera
+* [Hardware](https://docs-beta.luxonis.com/hardware/products/OAK-D%20Lite)
+* [Robotics Vision Core 2](https://docs-beta.luxonis.com/hardware/platform/rvc/rvc2/)
+* [DepthAI ROS](https://docs-beta.luxonis.com/software/ros/depthai-ros/)
+
 ## Unitree L1 LiDAR
 * [Unitree 4D LiDAR L1](https://www.unitree.com/LiDAR/)
 * [Unilidar SDK (C++, ROS, ROS2)](https://github.com/unitreerobotics/unilidar_sdk)
