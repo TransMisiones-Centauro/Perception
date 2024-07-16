@@ -10,3 +10,6 @@
 [submodule "zed-ros2-examples"]
 	path = zed-ros2-examples
 	url = https://github.com/TransMisiones-Centauro/zed-ros2-examples.git
+[submodule "FoundationPose"]
+	path = FoundationPose
+	url = https://github.com/TransMisiones-Centauro/FoundationPose.git
