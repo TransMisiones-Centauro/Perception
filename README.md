@@ -26,6 +26,9 @@ Large-scale Grasp Dataset from Foundation Models.
 ### ROS 1
 * [Stereolabs ZED Camera - RTAB-map example - ROS Noetic](https://github.com/stereolabs/zed-ros-examples/blob/master/examples/zed_rtabmap_example/README.md)
 
+## RealSense camera
+* [ROS Wrapper for Intel(R) RealSense(TM) Cameras](https://github.com/TransMisiones-Centauro/realsense-ros/)
+
 ## OAK-D Lite stereo camera
 * [Hardware](https://docs-beta.luxonis.com/hardware/products/OAK-D%20Lite)
 * [Robotics Vision Core 2](https://docs-beta.luxonis.com/hardware/platform/rvc/rvc2/)
