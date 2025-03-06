@@ -13,3 +13,6 @@
 [submodule "FoundationPose"]
 	path = FoundationPose
 	url = https://github.com/TransMisiones-Centauro/FoundationPose.git
+[submodule "realsense-ros"]
+	path = realsense-ros
+	url = https://github.com/TransMisiones-Centauro/realsense-ros/
